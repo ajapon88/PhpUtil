@@ -1,5 +1,4 @@
 <?php
-//class MySsh_Exception extends Common_Exception_Abstract
 class MySsh_Exception extends Exception
 {
 }
